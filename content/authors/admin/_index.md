@@ -28,13 +28,13 @@ education:
 superuser: true
 status:
   icon: ☕️
-last_name: Wu
+last_name: DeVita-Carlow
 role: Staff IT Infrastructure Engineer
 highlight_name: true
 title: Scott DeVita-Carlow
-first_name: Alice
+first_name: Scott
 email: ""
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+This site is under construction!.
 {style="text-align: justify;"}
