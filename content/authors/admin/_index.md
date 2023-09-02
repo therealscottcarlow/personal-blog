@@ -23,8 +23,6 @@ social:
 organizations:
   - name: Velo3D
     url: https://velo3d.com
-education:
-  courses: []
 superuser: true
 status:
   icon: ☕️
